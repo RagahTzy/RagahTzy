@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RagahTzy
 - Indonesia -
 - 👀 I’m interested in Game Development, and Web Development
-- 🌱 I’m currently learning C++, C#, and HTML
+- 🌱 I’m currently learning C++, C#, HTML, CSS, JavaScript, and PHP.
 - I'm very beginner at coding, if you have criticism and suggestions please let me know
 - And my english is not very good
 
