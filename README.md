@@ -41,14 +41,6 @@
 
 ###
 
-<picture style="pointer-events: none; cursor: default;">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RagahTzy/RagahTzy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RagahTzy/RagahTzy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RagahTzy/RagahTzy/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <a href="https://discord.com/users/1126518765660680323" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
