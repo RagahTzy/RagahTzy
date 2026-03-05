@@ -35,7 +35,6 @@
 <div align="center" style="pointer-events: none; cursor: default;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RagahTzy&theme=gotham" alt="Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RagahTzy&theme=gotham" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app?username=RagahTzy&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RagahTzy&radius=16&theme=gotham&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph" />
 </div>
 
